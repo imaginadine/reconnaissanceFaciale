@@ -17,9 +17,7 @@ Ainsi le temps d'exécution du programme n'est plus que de quelques secondes et 
 
 ### Image moyenne 
 
-Lors de l'exécution du code, l'image moyenne est calculée puis générée. Elle est enregistrée dans le dossier "images_resultats" du projet. La voici :
-
-<p align="center"><img src="images_resultats/image_moyenne.jpg" width="200"></p>
+Lors de l'exécution du code, l'image moyenne est calculée puis générée. Elle est enregistrée dans le dossier "images_resultats" du projet.
 
 ### Images centrées
 
